@@ -1,0 +1,4 @@
+https://github.com/magesh21/first_test.git
+
+git remote add origin https://github.com/magesh21/first_test.git
+git push -u origin master
