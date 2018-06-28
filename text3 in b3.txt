@@ -1,0 +1,2 @@
+hi
+text3 in b3.txt
